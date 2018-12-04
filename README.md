@@ -1,8 +1,8 @@
 # apidemo
 demo for an api. I used Laravel framework for a beautiful url (restful api)
 # Set up
-php artisan migrate
-php artisan db:seed --class=UserDataSeeder
+- php artisan migrate
+- php artisan db:seed --class=UserDataSeeder
 # Hướng dẫn sử dụng API
 1. Lấy thông tin người dùng
 - REQUEST:
